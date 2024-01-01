@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hi there, I'm Huang! 👋
 
-<!--
-**huangxy22/huangxy22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate student from China with a love for coding and a curiosity for exploring new technologies. Here's a glimpse into my world:
 
-Here are some ideas to get you started:
+## 🔭 The programming language I use is
+- C++
+- Python
+- Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👯 I’m looking to collaborate on
+I'm open to collaborating on projects that involve:
+- Solving real-world problems
+- Enhancing coding skills
+- Making a positive impact on the community
+
+## 💬 Ask me about
+- Tips for balancing coding and studies
+- My favorite sports and workout routines
+
+## 😄 Pronouns
+She/Her
+
+## ⚡ Fun fact
+I'm not just a coder; I'm also a fitness enthusiast! When I'm not in front of a computer, you'll find me enjoying various sports and staying active.
+
+Thanks for dropping by! 😊
